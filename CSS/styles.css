@@ -1,0 +1,17 @@
+.column {
+  width: 20%;
+  float: left;
+  background-color: darkblue;
+  border-radius: 20px;
+  color:whitesmoke;
+}
+
+img {
+  float: right;
+  border-radius: 20px;
+  margin-right: 20px;
+}
+
+h1 {
+  text-align: center;
+}
